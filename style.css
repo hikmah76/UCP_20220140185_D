@@ -1,0 +1,18 @@
+/* style.css */
+.carousel-item img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .carousel-image img {
+    width: 50%;
+    height: auto;
+  }
+  
+  body {
+    background: linear-gradient(135deg, #ffffff, #db7ed5);
+  }
+  
+  
